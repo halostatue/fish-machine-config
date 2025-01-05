@@ -1,9 +1,9 @@
-# @halostatue/fish-machine-config/functions/__machine_config.fish
+# @halostatue/fish-machine-config/functions/__machine_config.fish:v1.0.2
 
 function __machine_config --description 'Source or create a machine local configuration file by type (platform, host, and user).'
     for type in $argv
-        set -l dir $type"s"
-        set -l file
+        set --function dir $type"s"
+        set --function file
 
         switch $type
             case platform

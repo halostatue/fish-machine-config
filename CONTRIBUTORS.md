@@ -1,3 +1,5 @@
 # Contributors
 
-- Austin Ziegler
+- Austin Ziegler ([@halostatue][@halostatue])
+
+[@halostatue]: https://github.com/halostatue

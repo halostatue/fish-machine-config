@@ -1,10 +1,10 @@
 # halostatue/fish-machine-config
 
-A short description of this module for [fish shell][fish shell].
+Machine, platform, and user specific configurations for [fish shell][shell].
 
 ## Installation
 
-Install with [Fisher][Fisher] (recommended):
+Install with [Fisher][Fisher]:
 
 ```fish
 fisher install halostatue/fish-machine-config@v1
@@ -33,6 +33,6 @@ This would be used in your `$HOME/.config/fish/config.fish` startup script.
 
 [MIT](LICENCE.md)
 
-[fish shell]: https://fishshell.com 'friendly interactive shell'
+[shell]: https://fishshell.com 'friendly interactive shell'
 [fisher]: https://github.com/jorgebucaran/fisher
 [fish]: https://github.com/fish-shell/fish-shell
