@@ -1,5 +1,7 @@
 # halostatue/fish-machine-config
 
+[![Version][version]](https://github.com/halostatue/fish-machine-config/releases)
+
 Machine, platform, and user specific configurations for [fish shell][shell].
 
 ## Installation
@@ -12,7 +14,7 @@ fisher install halostatue/fish-machine-config@v1
 
 ### System Requirements
 
-- [fish][fish] 3.0+
+- [fish][fish] 3.4+
 
 ## Functions
 
@@ -31,8 +33,19 @@ This would be used in your `$HOME/.config/fish/config.fish` startup script.
 
 ## Licence
 
-[MIT](LICENCE.md)
+[MIT](./LICENCE.md)
+
+## Change Log
+
+[CHANGELOG](./CHANGELOG.md)
+
+## Contributing
+
+- [Contributing](./CONTRIBUTING.md)
+- [Contributors](./CONTRIBUTORS.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 [shell]: https://fishshell.com 'friendly interactive shell'
 [fisher]: https://github.com/jorgebucaran/fisher
+[version]: https://img.shields.io/github/tag/halostatue/fish-machine-config.svg?label=Version
 [fish]: https://github.com/fish-shell/fish-shell
