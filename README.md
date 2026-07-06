@@ -1,6 +1,7 @@
 # halostatue/fish-machine-config
 
 [![Version][version]](https://github.com/halostatue/fish-machine-config/releases)
+[![MIT](https://img.shields.io/badge/licence-MIT-blue?style=for-the-badge "MIT")](https://github.com/halostatue/fish-machine-config/blob/main/LICENCE.md)
 
 Machine, platform, and user specific configurations for [fish shell][shell].
 
